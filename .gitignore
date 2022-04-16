@@ -1,3 +1,8 @@
 site.txt
 
-/node_modules
+uikit-icons.js
+uikit-icons.min.js
+uikit.js
+uikit.min.js
+
+node_modules/*
