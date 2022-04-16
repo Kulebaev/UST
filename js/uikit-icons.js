@@ -1,5 +1,5 @@
 /*! UIkit 3.13.7 | https://www.getuikit.com | (c) 2014 - 2022 YOOtheme | MIT License */
-
+/*выфв*/
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
     typeof define === 'function' && define.amd ? define('uikiticons', factory) :
