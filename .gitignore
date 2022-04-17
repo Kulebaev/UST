@@ -1,5 +1,8 @@
 site.txt
 
 node_modules/
-
+dist/
+src/
 webpack/
+html/
+webpack.config.js
