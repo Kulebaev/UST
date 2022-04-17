@@ -5,19 +5,11 @@
     height: 1084px;
 }
 
-.verticalLine:before{ 
-    content: " ";
-    background: #DDDDE2;
-    width: 2px;
-    height: 25px;
-    float: left;
-    margin: 0 16px 0 16px;
-    }
-
-
 .navBarContent{
     padding-top: 10px;
-    display: flex;
+    display: flex;  
+    justify-content: center;
+    align-items: center; 
 }
 
 ul {
@@ -31,3 +23,16 @@ li a:visited {
 li a:hover { 
    text-decoration: none; 
 } 
+
+.verticalLine:before{ 
+    content: " ";
+    background: #DDDDE2;
+    width: 2px;
+    height: 25px;
+    float: left;
+    margin: 0 16px 0 16px;
+    }
+
+    .navBar{
+        margin-left: 250px;
+    }
