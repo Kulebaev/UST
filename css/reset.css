@@ -35,7 +35,7 @@ THE SOFTWARE.
     padding: 0;
   }
   
-  html, body { height: 100%; }
+  html, body { height: 100%;  width:1920px;}
   
   body {
     background-color: #FFF;
@@ -44,6 +44,7 @@ THE SOFTWARE.
     font-weight: 300;
     line-height: 1.55em;
     padding: 0;
+    margin: 0 auto;
     text-rendering: optimizeLegibility;
     color: #555;
   }
