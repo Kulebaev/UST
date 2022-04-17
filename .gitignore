@@ -1,8 +1,5 @@
 site.txt
 
-uikit-icons.js
-uikit-icons.min.js
-uikit.js
-uikit.min.js
+node_modules/
 
-node_modules/*
+webpack/
