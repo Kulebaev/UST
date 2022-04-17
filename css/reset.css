@@ -35,7 +35,11 @@ THE SOFTWARE.
     padding: 0;
   }
   
-  html, body { height: 100%;  width:1915px;}
+  html{
+    overflow:  hidden;
+  }
+
+  html, body { height: 100%;  width:1920px;}
   
   body {
     background-color: #FFF;
